@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 13966,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-subscription-and-rg-deployment-function-azdeploy/master/Start-AzDeploy.ps1",
+    "DownloadCount": 446,
+    "Id": "Azure-Subscription-and-RG-e11378f8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 463,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-5-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script does Resource Group or Subscription deployments.Enable-AzureRmAlias<# .Synopsis Deploy ARM Templates in a custom way, to streamline deployments .DESCRIPTION This is a customization of the deployment scripts available on the Quickstart or within Visua",
+    "Title": "Azure Subscription and RG Deployment Function AzDeploy",
+    "UpdatedDate": "2019-5-25T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-subscription-and-rg-deployment-function-azdeploy",
+    "UserTags": "ARM, Resource Group Deployments, Azure Template Deployments"
+}
